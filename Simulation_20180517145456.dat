@@ -1,0 +1,216 @@
+
+Il y a 10 vaisseaux disponibles
+
+
+Il y a 3 centres de tris disponibles
+
+
+Envoie d'un nouveau vaisseau
+Le Bébé vaisseau A est chargé de : 
+Gadolinium : 0
+Neptunium : 5
+Plutonium : 0
+Terbium : 5
+Thulium : 0
+Les déchets proviennent de la planète : Dagobah
+En direction du centre de tri: 0
+
+
+Envoie d'un nouveau vaisseau
+Le Bébé vaisseau B est chargé de : 
+Gadolinium : 2
+Neptunium : 2
+Plutonium : 0
+Terbium : 0
+Thulium : 6
+Les déchets proviennent de la planète : Almania
+En direction du centre de tri: 0
+
+
+Envoie d'un nouveau vaisseau
+Le Bébé vaisseau C est chargé de : 
+Gadolinium : 1
+Neptunium : 2
+Plutonium : 0
+Terbium : 7
+Thulium : 0
+Les déchets proviennent de la planète : Endor
+En direction du centre de tri: 0
+
+
+Envoie d'un nouveau vaisseau
+Le Maman vaisseau A est chargé de : 
+Gadolinium : 0
+Neptunium : 4
+Plutonium : 0
+Terbium : 14
+Thulium : 2
+Les déchets proviennent de la planète : Dagobah
+En direction du centre de tri: 0
+
+
+Envoie d'un nouveau vaisseau
+Le Maman vaisseau B est chargé de : 
+Gadolinium : 0
+Neptunium : 8
+Plutonium : 0
+Terbium : 11
+Thulium : 1
+Les déchets proviennent de la planète : Dagobah
+En direction du centre de tri: 0
+
+
+Envoie d'un nouveau vaisseau
+Le Maman vaisseau C est chargé de : 
+Gadolinium : 3
+Neptunium : 6
+Plutonium : 0
+Terbium : 3
+Thulium : 8
+Les déchets proviennent de la planète : Tatooine
+En direction du centre de tri: 0
+
+
+Vaisseau de la liste d'attente envoyé sur une nouvelle planète
+
+
+Le Bébé vaisseau A est chargé de : 
+Gadolinium : 0
+Neptunium : 2
+Plutonium : 0
+Terbium : 8
+Thulium : 0
+Les déchets proviennent de la planète : Endor
+Le Bébé vaisseau A est déchargé
+
+
+Envoie d'un nouveau vaisseau
+Le Maman vaisseau D est chargé de : 
+Gadolinium : 0
+Neptunium : 12
+Plutonium : 0
+Terbium : 4
+Thulium : 4
+Les déchets proviennent de la planète : Dagobah
+En direction du centre de tri: 0
+
+
+Vaisseau de la liste d'attente envoyé sur une nouvelle planète
+
+
+Le Bébé vaisseau B est chargé de : 
+Gadolinium : 0
+Neptunium : 2
+Plutonium : 0
+Terbium : 7
+Thulium : 1
+Les déchets proviennent de la planète : Dagobah
+Le Bébé vaisseau B est déchargé
+
+
+Envoie d'un nouveau vaisseau
+Le Papa vaisseau A est chargé de : 
+Gadolinium : 13
+Neptunium : 5
+Plutonium : 0
+Terbium : 0
+Thulium : 12
+Les déchets proviennent de la planète : Tatooine
+En direction du centre de tri: 0
+
+
+Vaisseau de la liste d'attente envoyé sur une nouvelle planète
+
+
+Le Bébé vaisseau C est chargé de : 
+Gadolinium : 3
+Neptunium : 0
+Plutonium : 0
+Terbium : 0
+Thulium : 7
+Les déchets proviennent de la planète : Almania
+Le Bébé vaisseau C est déchargé
+
+
+Envoie d'un nouveau vaisseau
+Le Papa vaisseau B est chargé de : 
+Gadolinium : 6
+Neptunium : 2
+Plutonium : 0
+Terbium : 0
+Thulium : 22
+Les déchets proviennent de la planète : Almania
+En direction du centre de tri: 0
+
+
+Vaisseau de la liste d'attente envoyé sur une nouvelle planète
+
+
+Le Maman vaisseau A est chargé de : 
+Gadolinium : 1
+Neptunium : 1
+Plutonium : 0
+Terbium : 18
+Thulium : 0
+Les déchets proviennent de la planète : Endor
+Le Maman vaisseau A est déchargé
+
+
+Envoie d'un nouveau vaisseau
+Le Papa vaisseau C est chargé de : 
+Gadolinium : 2
+Neptunium : 4
+Plutonium : 0
+Terbium : 24
+Thulium : 0
+Les déchets proviennent de la planète : Endor
+En direction du centre de tri: 0
+
+
+Vaisseau de la liste d'attente envoyé sur une nouvelle planète
+
+
+Le Maman vaisseau B est chargé de : 
+Gadolinium : 0
+Neptunium : 6
+Plutonium : 0
+Terbium : 12
+Thulium : 2
+Les déchets proviennent de la planète : Dagobah
+Le Maman vaisseau B est déchargé
+
+
+
+
+--------------------
+SIMULATION TERMINÉE
+--------------------
+Vaisseaux en attente d'un départ : 5
+Centre de tris 1
+27 Gadolinium
+50 Neptunium
+0 Plutonium
+68 Terbium
+55 Thulium
+
+
+--------------------
+Vaisseaux en attente d'un départ : 5
+Centre de tris 2
+4 Gadolinium
+11 Neptunium
+0 Plutonium
+45 Terbium
+10 Thulium
+
+
+--------------------
+Vaisseaux en attente d'un départ : 0
+Centre de tris 3
+0 Gadolinium
+0 Neptunium
+0 Plutonium
+0 Terbium
+0 Thulium
+
+

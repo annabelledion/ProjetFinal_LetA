@@ -1,0 +1,198 @@
+
+Il y a 10 vaisseau disponibles
+
+
+Il y a 3 centres de tris disponibles
+
+
+Envoie d'un nouveau vaisseau
+Le Bébé vaisseau A est chargé de : 
+Gadolinium : 0
+Neptunium : 6
+Plutonium : 0
+Terbium : 3
+Thulium : 1
+Les déchets proviennent de la planète : Dagobah
+En direction du centre de tri: 0
+
+
+Envoie d'un nouveau vaisseau
+Le Bébé vaisseau B est chargé de : 
+Gadolinium : 0
+Neptunium : 1
+Plutonium : 0
+Terbium : 8
+Thulium : 1
+Les déchets proviennent de la planète : Dagobah
+En direction du centre de tri: 0
+
+
+Envoie d'un nouveau vaisseau
+Le Bébé vaisseau C est chargé de : 
+Gadolinium : 0
+Neptunium : 3
+Plutonium : 0
+Terbium : 6
+Thulium : 1
+Les déchets proviennent de la planète : Dagobah
+En direction du centre de tri: 0
+
+
+Envoie d'un nouveau vaisseau
+Le Maman vaisseau A est chargé de : 
+Gadolinium : 9
+Neptunium : 2
+Plutonium : 0
+Terbium : 2
+Thulium : 7
+Les déchets proviennent de la planète : Tatooine
+En direction du centre de tri: 0
+
+
+Vaisseau de la liste d'attente envoyé sur une nouvelle planète
+Le Bébé vaisseau A est chargé de : 
+Gadolinium : 4
+Neptunium : 1
+Plutonium : 0
+Terbium : 0
+Thulium : 5
+Les déchets proviennent de la planète : Almania
+Le Bébé vaisseau A est déchargé
+
+
+Envoie d'un nouveau vaisseau
+Le Maman vaisseau B est chargé de : 
+Gadolinium : 0
+Neptunium : 8
+Plutonium : 0
+Terbium : 10
+Thulium : 2
+Les déchets proviennent de la planète : Dagobah
+En direction du centre de tri: 0
+
+
+La pile de Terbium est pleine
+Appel d'un vaisseau en attente: Bébé vaisseau B
+
+
+Le Bébé vaisseau B est chargé de : 
+Gadolinium : 0
+Neptunium : 0
+Plutonium : 0
+Terbium : 8
+Thulium : 0
+Centre de tri: 1
+
+
+Envoie d'un nouveau vaisseau
+Le Maman vaisseau C est chargé de : 
+Gadolinium : 5
+Neptunium : 3
+Plutonium : 0
+Terbium : 0
+Thulium : 12
+Les déchets proviennent de la planète : Almania
+En direction du centre de tri: 0
+
+
+La pile de Neptunium est pleine
+Appel d'un vaisseau en attente: Bébé vaisseau C
+
+
+Le Bébé vaisseau C est chargé de : 
+Gadolinium : 0
+Neptunium : 10
+Plutonium : 0
+Terbium : 0
+Thulium : 0
+Centre de tri: 1
+
+
+La pile de Thulium est pleine
+Appel d'un vaisseau en attente: Maman vaisseau A
+
+
+Le Maman vaisseau A est chargé de : 
+Gadolinium : 0
+Neptunium : 0
+Plutonium : 0
+Terbium : 0
+Thulium : 2
+Vaisseau de la liste d'attente envoyé sur une nouvelle planète
+Le Bébé vaisseau A est chargé de : 
+Gadolinium : 3
+Neptunium : 2
+Plutonium : 0
+Terbium : 1
+Thulium : 4
+Les déchets proviennent de la planète : Tatooine
+Le Bébé vaisseau A est déchargé
+
+
+Centre de tri: 1
+
+
+La pile de Thulium est pleine
+Appel d'un vaisseau en attente: Maman vaisseau B
+
+
+Le Maman vaisseau B est chargé de : 
+Gadolinium : 0
+Neptunium : 0
+Plutonium : 0
+Terbium : 0
+Thulium : 2
+Vaisseau de la liste d'attente envoyé sur une nouvelle planète
+Le Bébé vaisseau B est chargé de : 
+Gadolinium : 3
+Neptunium : 0
+Plutonium : 0
+Terbium : 0
+Thulium : 7
+Les déchets proviennent de la planète : Almania
+Le Bébé vaisseau B est déchargé
+
+
+Centre de tri: 1
+
+
+Envoie d'un nouveau vaisseau
+Le Maman vaisseau D est chargé de : 
+Gadolinium : 0
+Neptunium : 10
+Plutonium : 0
+Terbium : 8
+Thulium : 2
+Les déchets proviennent de la planète : Dagobah
+En direction du centre de tri: 0
+
+
+La pile de Terbium est pleine
+Appel d'un vaisseau en attente: Maman vaisseau C
+
+
+Le Maman vaisseau C est chargé de : 
+Gadolinium : 0
+Neptunium : 0
+Plutonium : 0
+Terbium : 8
+Thulium : 0
+Vaisseau de la liste d'attente envoyé sur une nouvelle planète
+Le Bébé vaisseau C est chargé de : 
+Gadolinium : 4
+Neptunium : 1
+Plutonium : 0
+Terbium : 0
+Thulium : 5
+Les déchets proviennent de la planète : Almania
+Le Bébé vaisseau C est déchargé
+
+
+Centre de tri: 1
+
+
+La pile de Neptunium est pleine
+
+
+**ERREUR**
+Il n'y a pas de vaisseaux en attente dans le centre de tris 

@@ -1,0 +1,132 @@
+
+Il y a 10 vaisseaux disponibles
+
+
+Il y a 3 centres de tris disponibles
+
+
+Envoie d'un nouveau vaisseau
+Le Bébé vaisseau A est chargé de : 
+Gadolinium : 2
+Neptunium : 1
+Plutonium : 0
+Terbium : 7
+Thulium : 0
+Les déchets proviennent de la planète : Endor
+En direction du centre de tri: 0
+
+
+Envoie d'un nouveau vaisseau
+Le Bébé vaisseau B est chargé de : 
+Gadolinium : 1
+Neptunium : 4
+Plutonium : 0
+Terbium : 5
+Thulium : 0
+Les déchets proviennent de la planète : Endor
+En direction du centre de tri: 0
+
+
+Envoie d'un nouveau vaisseau
+Le Bébé vaisseau C est chargé de : 
+Gadolinium : 1
+Neptunium : 2
+Plutonium : 0
+Terbium : 7
+Thulium : 0
+Les déchets proviennent de la planète : Endor
+En direction du centre de tri: 0
+
+
+La pile de Terbium est pleine
+Appel d'un vaisseau en attente: Bébé vaisseau A
+
+
+Le Bébé vaisseau A est chargé de : 
+Gadolinium : 0
+Neptunium : 0
+Plutonium : 0
+Terbium : 6
+Thulium : 0
+Centre de tri: 1
+
+
+Envoie d'un nouveau vaisseau
+Le Maman vaisseau A est chargé de : 
+Gadolinium : 0
+Neptunium : 9
+Plutonium : 0
+Terbium : 10
+Thulium : 1
+Les déchets proviennent de la planète : Dagobah
+En direction du centre de tri: 0
+
+
+La pile de Terbium est pleine
+Appel d'un vaisseau en attente: Bébé vaisseau B
+
+
+Le Bébé vaisseau B est chargé de : 
+Gadolinium : 0
+Neptunium : 0
+Plutonium : 0
+Terbium : 6
+Thulium : 0
+Centre de tri: 1
+
+
+La pile de Neptunium est pleine
+Appel d'un vaisseau en attente: Bébé vaisseau C
+
+
+Le Bébé vaisseau C est chargé de : 
+Gadolinium : 0
+Neptunium : 7
+Plutonium : 0
+Terbium : 0
+Thulium : 0
+Centre de tri: 1
+
+
+Envoie d'un nouveau vaisseau
+Le Maman vaisseau B est chargé de : 
+Gadolinium : 0
+Neptunium : 17
+Plutonium : 0
+Terbium : 3
+Thulium : 0
+Les déchets proviennent de la planète : Naboo
+En direction du centre de tri: 0
+
+
+La pile de Terbium est pleine
+Appel d'un vaisseau en attente: Maman vaisseau A
+
+
+Le Maman vaisseau A est chargé de : 
+Gadolinium : 0
+Neptunium : 0
+Plutonium : 0
+Terbium : 6
+Thulium : 0
+Vaisseau de la liste d'attente envoyé sur une nouvelle planète
+
+
+Le Bébé vaisseau A est chargé de : 
+Gadolinium : 0
+Neptunium : 2
+Plutonium : 0
+Terbium : 8
+Thulium : 0
+Les déchets proviennent de la planète : Endor
+Le Bébé vaisseau A est déchargé
+
+
+Centre de tri: 1
+
+
+La pile de Neptunium est pleine
+
+
+**ERREUR**
+Il n'y a pas de vaisseaux en attente dans le centre de tris 

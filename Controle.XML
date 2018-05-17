@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<simulation>
+    <nbPlanetes>5</nbPlanetes>
+    <planetes>
+        <planete id="PlaneteBleue">
+            <probabilite>
+                <gadolinium>0</gadolinium>
+                <neptunium>60</neptunium>
+                <plutonium>20</plutonium>
+                <terbium>20</terbium>
+                <thulium>0</thulium>
+            </probabilite>
+        </planete>
+        <planete id ="PlaneteJaune">
+            <probabilite>
+                <gadolinium>40</gadolinium>
+                <neptunium>0</neptunium>
+                <plutonium>20</plutonium>
+                <terbium>10</terbium>
+                <thulium>30</thulium>
+            </probabilite>
+        </planete>
+        <planete id="PlaneteNoir">
+            <probabilite>
+                <gadolinium>10</gadolinium>
+                <neptunium>0</neptunium>
+                <plutonium>20</plutonium>
+                <terbium>70</terbium>
+                <thulium>0</thulium>
+            </probabilite>
+        </planete>
+        <planete id ="PlaneteRouge">
+            <probabilite>
+                <gadolinium>30</gadolinium>
+                <neptunium>0</neptunium>
+                <plutonium>10</plutonium>
+                <terbium>0</terbium>
+                <thulium>60</thulium>
+            </probabilite>
+        </planete>
+        <planete id ="PlaneteVerte">
+            <probabilite>
+                <gadolinium>0</gadolinium>
+                <neptunium>40</neptunium>
+                <plutonium>0</plutonium>
+                <terbium>50</terbium>
+                <thulium>10</thulium>
+            </probabilite>
+        </planete>
+    </planetes>
+    <dechets>
+        <gadolinium>
+            <pourcentageRecyc>30</pourcentageRecyc>
+            <masseVol>157</masseVol>
+        </gadolinium>
+        <neptunium>
+            <pourcentageRecyc>50</pourcentageRecyc>
+            <masseVol>237</masseVol>
+        </neptunium>
+        <plutonium>
+            <pourcentageRecyc>20</pourcentageRecyc>
+            <masseVol>244</masseVol>
+        </plutonium>
+        <terbium>
+            <pourcentageRecyc>40</pourcentageRecyc>
+            <masseVol>159</masseVol>
+        </terbium>
+        <thulium>
+            <pourcentageRecyc>10</pourcentageRecyc>
+            <masseVol>169</masseVol>
+        </thulium>
+    </dechets>
+    <vaisseaux>
+        <leger>3</leger>
+        <normal>4</normal>
+        <lourd>3</lourd>
+    </vaisseaux>
+    <nbCentreTris>3</nbCentreTris>
+</simulation>
